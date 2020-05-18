@@ -3,14 +3,14 @@ This project find square in an axis list with C# and .NetCore
 
 I was used linq power while I find square
 
-Question : 
+## Question : 
 
-VERİLER:
-Veri kümesi içersindeki A,B kolonlarından oluşan X ve Y değerleri kartezyen düzleminde rasgele dağılmış 100 adet noktanın X ve Y koordinatlarını göstermektedir.
+**Veriler**
+Veri kÃ¼mesi iÃ§ersindeki A,B kolonlarÄ±ndan oluÅŸan X ve Y deÄŸerleri kartezyen dÃ¼zleminde rasgele daÄŸÄ±lmÄ±ÅŸ 100 adet noktanÄ±n X ve Y koordinatlarÄ±nÄ± gÃ¶stermektedir.
 -100<=X<=100
 -100<=Y<=100
 
-SORU:
-Köşeleri söz konusu noktalardan herhangi 4'ü olan kaç farklı dikdörtgen çizilebildiğini bulan bir kod bloğunu istediğiniz progralama ve/veya sorgu dilinde yazınız. 
-Not: Söz konusu dörtgenin kenarları X ve Y-eksenlerine paralel olmalıdır.
+**Soru**
+KÃ¶ÅŸeleri sÃ¶z konusu noktalardan herhangi 4'Ã¼ olan kaÃ§ farklÄ± dikdÃ¶rtgen Ã§izilebildiÄŸini bulan bir kod bloÄŸunu istediÄŸiniz progralama ve/veya sorgu dilinde yazÄ±nÄ±z. 
+Not: SÃ¶z konusu dÃ¶rtgenin kenarlarÄ± X ve Y-eksenlerine paralel olmalÄ±dÄ±r.
 
