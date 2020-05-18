@@ -8,7 +8,9 @@ I was used linq power while I find square
 **Veriler**
 
 Veri kümesi içersindeki A,B kolonlarından oluşan X ve Y değerleri kartezyen düzleminde rasgele dağılmış 100 adet noktanın X ve Y koordinatlarını göstermektedir.
+
 -100<=X<=100
+
 -100<=Y<=100
 
 **Soru**
