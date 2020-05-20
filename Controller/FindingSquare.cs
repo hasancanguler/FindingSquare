@@ -1,7 +1,6 @@
 ﻿using FindingSquare.Finding;
 using FindingSquare.Model;
 using FindingSquare.Repository;
-using FindingSquare.Utility;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +10,6 @@ namespace FindingSquare.Controller
 {
     public class FindingSquare
     {
-        AxisBuss axisBuss = new AxisBuss();
         IDataProvider dataProvider = new NotePad();
         IFindDublicate findDublicate;
         public List<Square> Find()
